@@ -1,0 +1,15 @@
+log:
+    search:
+        term:       Zoeken (bericht of kanaal)
+        level:      Niveau
+        date_from:  Van
+        date_to:    Naar
+    results:
+        datetime:   Datum
+        message:    Bericht
+    show:
+        back:       Terug naar logs
+        extra:      Extra
+        context:    Context
+        request:    Verzoek
+        similar:    Vergelijkbare logs
